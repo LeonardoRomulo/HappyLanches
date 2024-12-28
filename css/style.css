@@ -46,7 +46,7 @@ span {
 }
 .container-info {
     padding: 10px;
-    height: 150px;
+    height: 190px;
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
